@@ -1,0 +1,20 @@
+{
+    "name": "Robo 1",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4B4btqq9vbehRt3j8NTrtiCCykxtf1Dd6qVwL3wLXobS",
+          "share": 100
+        }
+      ]
+    }
+  }
+  
